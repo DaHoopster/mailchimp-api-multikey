@@ -1,0 +1,20 @@
+{
+    "name":"mailchimp-api-multikey",
+    "description":"Enable MailChimp-api to use multiple keys in different data centers",
+    "version":"0.1.0",
+    "private":"false",
+    "author":{
+        "name":"Han Wang",
+        "email":"han@demandstreet.com"
+    },
+    "dependencies":{},
+    "_id": "mailchimp-api-multikey@0.1.0",
+    "engines": {
+        "node": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:handst/mailchimp-api-multikey.git"
+    },
+    "main": "mailchimp"
+}
